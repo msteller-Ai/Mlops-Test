@@ -6,7 +6,7 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: mljad
+  namespace: mljas
   postfix: 6251
   location: eastus
   environment: dev
