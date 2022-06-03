@@ -7,7 +7,7 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: mlkad
+  namespace: mlkap
   postfix: 5622
   location: eastus
   environment: prod
