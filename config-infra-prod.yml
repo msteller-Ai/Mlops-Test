@@ -9,7 +9,7 @@ variables:
 
   namespace: mlkah
   postfix: 5622
-  location: westus
+  location: eastus
   environment: prod
   enable_aml_computecluster: true
 
